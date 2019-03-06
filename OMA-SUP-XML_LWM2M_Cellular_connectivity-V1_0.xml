@@ -29,10 +29,10 @@ Applicable for 3GPP2 networks where SMSC is not available from a smart card, or 
 				<Type>Integer</Type>
 				<RangeEnumeration>0-65535</RangeEnumeration>
 				<Units>minutes</Units>
-				<Description><![CDATA[1	Disable radio period	RW	Single	Optional	Integer	0-65535	minutes	Time period for which the device shall disconnect from cellular radio (PS detach, CS detach if applicable).
+				<Description><![CDATA[1	Disable radio period RW	Single Optional	Integer	0-65535	minutes	Time period for which the device shall disconnect from cellular radio (PS detach, CS detach if applicable).
 Can be used to handle network overload situations. 
 The value is a positive integer (0 to 65535), duration can be from 1 minute to 65535 minutes (approximately 45 days)
-As soon the server writes a value which is >0 the device SHALL disconnect. When the period has elapsed the device MAY reconnect. ]]></Description>
+As soon the server writes a value which is >0 the device SHALL disconnect. When the period has elapsed the device MAY reconnect.]]></Description>
 			</Item>
 			<Item ID="2">
 				<Name>Module activation code</Name>
