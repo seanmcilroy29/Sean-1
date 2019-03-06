@@ -74,7 +74,8 @@ LEGAL DISCLAIMER
 				<Type>String</Type>
 				<RangeEnumeration />
 				<Units />
-				<Description><![CDATA[E.164 address of SMSC.				Applicable for 3GPP2 networks where SMSC is not available from a smart card, or for 3GPP/3GPP2 networks to provide the application with a customer specific SMSC.  The application decides how to use this parameter, e.g. precedence over UICC based SMSC address.]]></Description>
+				<Description><![CDATA[E.164 address of SMSC.
+				Applicable for 3GPP2 networks where SMSC is not available from a smart card, or for 3GPP/3GPP2 networks to provide the application with a customer specific SMSC.  The application decides how to use this parameter, e.g. precedence over UICC based SMSC address.]]></Description>
 			</Item>
 			<Item ID="1"><Name>Disable radio period</Name>
 				<Operations>RW</Operations>
