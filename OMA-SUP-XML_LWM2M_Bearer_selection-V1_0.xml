@@ -61,7 +61,8 @@ LEGAL DISCLAIMER
 <LWM2M xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://openmobilealliance.org/tech/profiles/LWM2M.xsd">
 	<Object ObjectType="MODefinition">
 		<Name>Bearer selection</Name>
-		<Description1><![CDATA[This object specifies resources to enable a device to choose a PLMN/network on which to attach/register and what type of bearer to then connect.		This object allows via remote bearer and network configuration to overwrite automatic network and bearer selection e.g. as supported by the UICC. An equivalent example for overwriting automatic selection is a user doing manual network and bearer selection on a smart phone.]]></Description1>
+		<Description1><![CDATA[This object specifies resources to enable a device to choose a PLMN/network on which to attach/register and what type of bearer to then connect.
+		This object allows via remote bearer and network configuration to overwrite automatic network and bearer selection e.g. as supported by the UICC. An equivalent example for overwriting automatic selection is a user doing manual network and bearer selection on a smart phone.]]></Description1>
 		<ObjectID>13</ObjectID>
 		<ObjectURN>urn:oma:lwm2m:oma:13</ObjectURN>
 		<ObjectVersion></ObjectVersion><MultipleInstances>Single</MultipleInstances>
@@ -146,7 +147,8 @@ The Preferred Communications Bearer resource specifies the preferred communicati
 				<Type>String</Type>
 				<RangeEnumeration />
 				<Units />
-				<Description><![CDATA[Comma separated list of MCC+MNC of operators, in priority order.				Resource “operator list mode” indicates how to process this list.]]></Description>
+				<Description><![CDATA[Comma separated list of MCC+MNC of operators, in priority order.
+				Resource “operator list mode” indicates how to process this list.]]></Description>
 			</Item>
 			<Item ID="7"><Name>Operator list mode</Name>
 				<Operations>RW</Operations>
@@ -155,7 +157,9 @@ The Preferred Communications Bearer resource specifies the preferred communicati
 				<Type>Boolean</Type>
 				<RangeEnumeration />
 				<Units />
-				<Description><![CDATA[Indicates whether resource “operator list” represents the allowed operator list (white list), or, the preferred operator list.				0=preferred				1=allowed]]></Description>
+				<Description><![CDATA[Indicates whether resource “operator list” represents the allowed operator list (white list), or, the preferred operator list.
+				0=preferred
+				1=allowed]]></Description>
 			</Item>
 			<Item ID="8"><Name>List of available PLMNs</Name>
 				<Operations>R</Operations>
@@ -200,7 +204,8 @@ The Preferred Communications Bearer resource specifies the preferred communicati
 				<Type>Boolean</Type>
 				<RangeEnumeration />
 				<Units />
-				<Description><![CDATA[False: attach with PDN connection				True: attach without PDN connection]]></Description>
+				<Description><![CDATA[False: attach with PDN connection
+				True: attach without PDN connection]]></Description>
 			</Item>
 			</Resources>
 		<Description2><![CDATA[Notes:
