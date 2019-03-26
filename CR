@@ -21,3 +21,15 @@ Change 1: 	(optional)Brief description of specific change
 	For changes to existing text, please use change tracking to capture changes being performed.
 	When there are multiple changes in the document, use the AltChangeList paragraph to separate changes.
 >
+
+Title:	LightweightM2M_1.1_bugfix_review
+To:	OMA DMSE
+Submission Date:	2019-02-06
+Source:	Sean Mcilroy, SMCILROY@OMAORG.ORG
+Public
+
+Members and their Affiliates (collectively, “Members”) agree to use their reasonable endeavours to inform timely the Open Mobile Alliance of Essential IPR as they become aware that the Essential IPR is related to the prepared or published Specification. This obligation does not imply an obligation on Members to conduct IPR searches. This duty is contained in the Open Mobile Alliance application form to which each Member’s attention is drawn. Members shall submit to the General Manager of Operations of OMA the IPR Statement and the IPR Licensing Declaration. These forms are available from OMA or online at the OMA website at https://www.omaspecworks.org 
+
+
+
+
