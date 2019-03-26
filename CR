@@ -3,3 +3,21 @@ TS-LWM2M_ConnMgmt-V1_0_0-2010314-A had some errors as well as inconsistencies ac
 •	APN connection profile
 •	Bearer selection
 The updates relate to moving resources within the objects to be in ascending order of IDs as well as updating some resource descriptions to provide clarifications and make them more readable
+
+Hi Matt, Scott
+Here’s a draft copy of the Agenda, If you’re happy with it I’ll upload it to the portal.
+I’ll continue to update the Agenda when any new contributions are submitted.
+Regards
+Sean 
+Project Manager
+Open Mobile Alliance  |  https://www.omaspecworks.org/
+Mobile: +44 (0) 7564721610
+Skype: sean.mcilroy29
+MSN: smcilroy@omaorg.org
+ 
+Change 1: 	(optional)Brief description of specific change
+<this is where the actual text or description of activity is placed.  Note that the common Word Document Styles are available to be used so that simple cut-n-paste items from a specification or similar document can occur (somewhat unique styles are used for the section heads in this doc).
+	To preserve document numbering after doing a cut-n-paste, select the paragraph in question (e.g. Heading 1-5) select Bullets and Numbering under the Word Format menu, Select the Outline Numbering tab and hit the Customize button where you can then set the starting values for the different levels of the outline.
+	For changes to existing text, please use change tracking to capture changes being performed.
+	When there are multiple changes in the document, use the AltChangeList paragraph to separate changes.
+>
