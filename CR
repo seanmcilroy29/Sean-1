@@ -1,0 +1,5 @@
+TS-LWM2M_ConnMgmt-V1_0_0-2010314-A had some errors as well as inconsistencies across Object definitions in the specification and their respective xml files. This CR provides a new updated TS as well as supporting xml files for the following objects:
+•	Cellular connectivity
+•	APN connection profile
+•	Bearer selection
+The updates relate to moving resources within the objects to be in ascending order of IDs as well as updating some resource descriptions to provide clarifications and make them more readable
